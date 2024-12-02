@@ -1,0 +1,118 @@
+hobby,tags,difficulty_level,cost,time_requirement,physical_activity_level,sociability,location,age_group,equipment_needed
+"Reading","indoor,relaxing,educational",Beginner,Low,Daily,Low,Individual,Indoor,"All Ages",Low
+"Jogging","outdoor,fitness,cardio",Beginner,Low,Daily,Medium,Individual,Outdoor,"All Ages",Low
+"Photography","creative,visual,artistic",Intermediate,Medium,Weekly,Low,Mixed,Both,"All Ages",Medium
+"Yoga","relaxation,fitness,flexibility",Beginner,Low,Daily,Medium,Individual,Indoor,"All Ages",Low
+"Knitting","crafting,relaxing,creative",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Woodworking","crafting,handicraft,creative",Intermediate,Medium,Weekly,Medium,Individual,Indoor,Adults,High
+"Mountain Biking","outdoor,adventure,fitness",Advanced,High,Weekly,High,Group,Outdoor,Teens,High
+"Gardening","outdoor,relaxing,nature",Beginner,Low,Weekly,Medium,Individual,Outdoor,Adults,Medium
+"Board Games","social,strategic,fun",Beginner,Low,Weekly,Low,Group,Indoor,"All Ages",Low
+"Cooking","culinary,creative,practical",Beginner,Medium,Daily,Low,Mixed,Indoor,"All Ages",Medium
+"Calligraphy","creative,artistic,craft",Intermediate,Low,Weekly,Low,Individual,Indoor,Adults,Low
+"Hiking","outdoor,adventure,fitness",Beginner,Low,Weekly,High,Group,Outdoor,"All Ages",Low
+"Sculpting","artistic,crafting,creative",Intermediate,Medium,Monthly,Low,Individual,Indoor,Adults,High
+"Swimming","fitness,water,sport",Beginner,Low,Weekly,High,Individual,Outdoor,Children,Low
+"Origami","creative,crafting,relaxing",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Singing","musical,expressive,art",Intermediate,Low,Daily,Medium,Mixed,Indoor,"All Ages",Low
+"Kayaking","outdoor,adventure,water",Intermediate,Medium,Monthly,High,Group,Outdoor,Adults,High
+"Scrapbooking","crafting,creative,art",Beginner,Low,Monthly,Low,Individual,Indoor,"All Ages",Low
+"Archery","outdoor,precision,focus",Intermediate,Medium,Weekly,Medium,Individual,Outdoor,Teens,Medium
+"Chess","strategic,intellectual,game",Intermediate,Low,Weekly,Low,Group,Indoor,Teens,Low
+"Fishing","outdoor,relaxing,patient",Beginner,Low,Monthly,Low,Individual,Outdoor,Adults,Medium
+"Model Building","crafting,creative,detailed",Intermediate,Medium,Monthly,Low,Individual,Indoor,Teens,Medium
+"Weightlifting","fitness,strength,exercise",Intermediate,Medium,Weekly,High,Individual,Indoor,Adults,Medium
+"Birdwatching","outdoor,nature,relaxing",Beginner,Low,Weekly,Low,Individual,Outdoor,Adults,Low
+"Pottery","artistic,crafting,creative",Intermediate,Medium,Weekly,Medium,Individual,Indoor,Adults,Medium
+"Rock Climbing","outdoor,adventure,fitness",Advanced,High,Weekly,High,Group,Outdoor,Adults,High
+"Bowling","recreational,social,sport",Beginner,Low,Monthly,Medium,Group,Indoor,"All Ages",Low
+"Running","outdoor,fitness,cardio",Beginner,Low,Daily,High,Individual,Outdoor,"All Ages",Low
+"Scrabble","word game,intellectual,fun",Beginner,Low,Weekly,Low,Group,Indoor,"All Ages",Low
+"Painting","artistic,creative,visual",Intermediate,Medium,Weekly,Low,Individual,Indoor,"All Ages",Medium
+"Carpentry","crafting,handicraft,construction",Intermediate,Medium,Weekly,Medium,Individual,Indoor,Adults,High
+"Martial Arts","fitness,self-defense,discipline",Intermediate,Medium,Weekly,High,Group,Indoor,Teens,Medium
+"Dancing","artistic,expressive,fitness",Beginner,Low,Weekly,High,Group,Indoor,"All Ages",Low
+"Surfing","outdoor,water,sport",Advanced,High,Monthly,High,Individual,Outdoor,Teens,High
+"Journaling","writing,reflective,creative",Beginner,Low,Daily,Low,Individual,Indoor,Adults,Low
+"Astrophotography","creative,scientific,technology",Advanced,High,Monthly,Low,Individual,Outdoor,Adults,High
+"Geocaching","outdoor,adventure,exploring",Beginner,Low,Weekly,Medium,Group,Outdoor,"All Ages",Low
+"Pottery Making","crafting,creative,handicraft",Intermediate,Medium,Weekly,Low,Individual,Indoor,"All Ages",Medium
+"Drone Flying","technology,outdoor,remote control",Intermediate,Medium,Monthly,Low,Individual,Outdoor,Adults,High
+"Amateur Astronomy","scientific,outdoor,educational",Intermediate,Medium,Monthly,Low,Individual,Outdoor,"All Ages",Medium
+"Leatherworking","crafting,creative,art",Intermediate,Medium,Weekly,Low,Individual,Indoor,Adults,Medium
+"3D Printing","technology,crafting,creative",Advanced,High,Monthly,Low,Individual,Indoor,Adults,High
+"Stand-up Comedy","creative,performing,entertaining",Intermediate,Low,Weekly,Medium,Group,Indoor,Adults,Low
+"Metal Detecting","outdoor,adventure,hobby",Beginner,Medium,Weekly,Low,Individual,Outdoor,"All Ages",Medium
+"Whittling","crafting,wood,creative",Beginner,Low,Weekly,Low,Individual,Outdoor,Adults,Low
+"Calligraphy","artistic,creative,writing",Intermediate,Low,Weekly,Low,Individual,Indoor,Adults,Low
+"Acroyoga","fitness,flexibility,partner",Intermediate,Low,Weekly,High,Group,Indoor,Teens,Low
+"Baking","culinary,creative,delicious",Beginner,Medium,Weekly,Low,Individual,Indoor,"All Ages",Medium
+"Soap Making","crafting,creative,chemical",Beginner,Low,Monthly,Low,Individual,Indoor,"All Ages",Medium
+"Amateur Radio","technology,communication,fun",Intermediate,Medium,Weekly,Low,Mixed,Indoor,Adults,Medium
+"Birdwatching","outdoor,nature,relaxing",Beginner,Low,Weekly,Low,Individual,Outdoor,Adults,Low
+"Knitting","crafting,relaxing,creative",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Crossword Puzzles","puzzle,intellectual,solitary",Beginner,Low,Daily,Low,Individual,Indoor,Adults,Low
+"Origami","crafting,creative,paper",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Fitness Gaming","technology,fitness,gaming",Beginner,Medium,Weekly,Medium,Group,Indoor,"All Ages",Medium
+"Quilting","crafting,sewing,creative",Intermediate,Medium,Monthly,Low,Individual,Indoor,Adults,Medium
+"Volunteering","community,helping,group",Beginner,Low,Weekly,Low,Group,Both,Adults,Low
+"Beekeeping","outdoor,nature,ecological",Intermediate,Medium,Monthly,Low,Individual,Outdoor,Adults,High
+"Coin Collecting","historical,educational,relaxing",Beginner,Low,Monthly,Low,Individual,Indoor,Adults,Low
+"Genealogy","historical,educational,research",Beginner,Low,Monthly,Low,Individual,Indoor,Adults,Low
+"Model Railroading","crafting,creative,detailed",Intermediate,Medium,Monthly,Low,Individual,Indoor,Adults,High
+"Slacklining","outdoor,balance,fitness",Intermediate,Low,Weekly,Medium,Individual,Outdoor,Teens,Low
+"Skateboarding","outdoor,adventure,sport",Intermediate,Low,Weekly,High,Individual,Outdoor,Teens,Medium
+"Weightlifting","fitness,strength,exercise",Intermediate,Medium,Weekly,High,Individual,Indoor,Adults,Medium
+"Fishing","outdoor,relaxing,nature",Beginner,Low,Monthly,Low,Individual,Outdoor,Adults,Medium
+"Kite Flying","outdoor,fun,wind",Beginner,Low,Monthly,Low,Individual,Outdoor,Children,Low
+"Ultimate Frisbee","outdoor,social,sport",Beginner,Low,Weekly,Medium,Group,Outdoor,"All Ages",Low
+"Glassblowing","crafting,artistic,creative",Advanced,High,Weekly,Low,Individual,Indoor,Adults,High
+"Virtual Reality Gaming","technology,fun,gaming",Intermediate,High,Weekly,Low,Group,Indoor,Teens,High
+"Podcasting","creative,educational,entertainment",Intermediate,Medium,Weekly,Low,Individual,Indoor,Adults,Medium
+"Parkour","fitness,adventure,outdoor",Advanced,Low,Weekly,High,Individual,Outdoor,Teens,Low
+"Juggling","circus,performing,fun",Beginner,Low,Daily,Medium,Individual,Indoor,Children,Low
+"Fly Tying","crafting,creative,fishing",Intermediate,Medium,Monthly,Low,Individual,Indoor,Adults,Medium
+"CrossFit","fitness,strength,cardio",Advanced,Medium,Weekly,High,Group,Indoor,Adults,Medium
+"Cycling","outdoor,fitness,cardio",Beginner,Medium,Weekly,Medium,Individual,Outdoor,"All Ages",Medium
+"Hand Lettering","artistic,creative,writing",Intermediate,Low,Weekly,Low,Individual,Indoor,Adults,Low
+"Jewelry Making","crafting,creative,art",Intermediate,Medium,Monthly,Low,Individual,Indoor,"All Ages",Medium
+"Soapmaking","crafting,creative,artistic",Beginner,Medium,Monthly,Low,Individual,Indoor,Adults,Medium
+"Parkour","outdoor,fitness,agility",Advanced,Low,Weekly,High,Individual,Outdoor,Teens,Low
+"Tennis","outdoor,sport,competitive",Intermediate,Medium,Weekly,High,Group,Outdoor,"All Ages",Medium
+"Wine Tasting","culinary,relaxing,social",Intermediate,Medium,Monthly,Low,Group,Indoor,Adults,Low
+"Violin","musical,creative,instrument",Advanced,Medium,Daily,Low,Individual,Indoor,Teens,High
+"Ukulele","musical,instrument,creative",Beginner,Low,Weekly,Low,Individual,Indoor,Teens,Low
+"Leatherworking","crafting,creative,detailed",Intermediate,Medium,Monthly,Low,Individual,Indoor,Adults,Medium
+"DJing","musical,creative,performing",Advanced,High,Weekly,Low,Individual,Indoor,Teens,High
+"Home Brewing","culinary,creative,fun",Intermediate,Medium,Monthly,Low,Individual,Indoor,Adults,Medium
+"Digital Art","artistic,technology,creative",Intermediate,Medium,Weekly,Low,Individual,Indoor,"All Ages",Medium
+"Virtual Reality Fitness","technology,fitness,interactive",Beginner,High,Weekly,Medium,Individual,Indoor,Teens,High
+"Rock Collecting","outdoor,geology,exploration",Beginner,Low,Monthly,Low,Individual,Outdoor,"All Ages",Low
+"RC Car Racing","technology,hobby,remote control",Intermediate,Medium,Weekly,Medium,Mixed,Outdoor,Teens,Medium
+"Surfing","outdoor,water,sport",Advanced,High,Weekly,High,Individual,Outdoor,Teens,High
+"Golf","outdoor,sport,relaxing",Intermediate,High,Weekly,Medium,Group,Outdoor,Adults,High
+"Writing Short Stories","creative,literary,solitary",Intermediate,Low,Weekly,Low,Individual,Indoor,Adults,Low
+"Sketching","artistic,creative,visual",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Amateur Theater","performing,acting,creative",Intermediate,Low,Weekly,Medium,Group,Indoor,Adults,Low
+"Gardening","outdoor,nature,relaxing",Beginner,Low,Weekly,Medium,Individual,Outdoor,Adults,Medium
+"Scuba Diving","outdoor,adventure,water",Advanced,High,Monthly,High,Group,Outdoor,Adults,High
+"Table Tennis","sport,indoor,competitive",Intermediate,Medium,Weekly,Medium,Group,Indoor,"All Ages",Low
+"Car Restoration","mechanical,creative,engineering",Advanced,High,Monthly,Low,Individual,Indoor,Adults,High
+"Mindfulness Meditation","relaxation,mental health,solitary",Beginner,Low,Daily,Low,Individual,Indoor,Adults,Low
+"Watercolor Painting","artistic,creative,visual",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Sailing","outdoor,water,adventure",Advanced,High,Monthly,High,Group,Outdoor,Adults,High
+"Flower Arranging","artistic,decorative,craft",Beginner,Low,Monthly,Low,Individual,Indoor,Adults,Low
+"Soap Making","crafting,creative,relaxing",Intermediate,Medium,Monthly,Low,Individual,Indoor,"All Ages",Medium
+"Rope Climbing","fitness,outdoor,adventure",Advanced,Medium,Weekly,High,Individual,Outdoor,Adults,Medium
+"Astrophotography","scientific,creative,technology",Advanced,High,Monthly,Low,Individual,Outdoor,Adults,High
+"Virtual Reality Fitness","technology,fitness,gaming",Beginner,High,Weekly,Medium,Individual,Indoor,Teens,High
+"Wood Carving","crafting,creative,art",Intermediate,Low,Weekly,Low,Individual,Indoor,Adults,Medium
+"Motorcycle Restoration","mechanical,creative,detailed",Advanced,High,Monthly,Low,Individual,Indoor,Adults,High
+"Drawing","artistic,creative,visual",Beginner,Low,Weekly,Low,Individual,Indoor,"All Ages",Low
+"Coin Collecting","historical,hobby,educational",Beginner,Low,Monthly,Low,Individual,Indoor,Adults,Low
+"Home Improvement","practical,creative,DIY",Intermediate,Medium,Monthly,Medium,Individual,Indoor,Adults,Medium
+"Backpacking","outdoor,adventure,exploration",Intermediate,Medium,Monthly,High,Group,Outdoor,Adults,Medium
+"Racing Drones","technology,sport,competitive",Intermediate,High,Monthly,Medium,Group,Outdoor,Teens,High
+"Fencing","sport,fitness,competitive",Intermediate,Medium,Weekly,High,Group,Indoor,Teens,Medium
+"Embroidery","crafting,creative,decorative",Intermediate,Low,Weekly,Low,Individual,Indoor,Adults,Low
+"Skydiving","adventure,thrill,outdoor",Advanced,High,Monthly,High,Individual,Outdoor,Adults,High

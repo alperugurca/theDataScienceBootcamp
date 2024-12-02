@@ -1,0 +1,18 @@
+<html>
+
+    <head>
+        <title>Maas tahmin eden ml modeli</title>
+    </head>
+
+<body>
+<h1>Maas tahmini yapan model</h1>
+<form action="/predict" method="post">
+    Tecrube: <input type="text", name="tecrube" required><br>
+    Yazili sinav notu: <input type="text", name="yazili" required><br>
+    Mulakat: <input type="text", name="mulakat" required><br>
+    <button type=submit>Tahmin Et</button> <button type="reset">Sil</button><br>
+    {{ tahmin }}
+</form>
+
+</body>
+</html>
