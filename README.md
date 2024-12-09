@@ -1,25 +1,22 @@
 # The Data Science Bootcamp Certificate
 
-Welcome to the repository showcasing my achievement from **The Data Science Bootcamp**. Below is my certificate of completion, which highlights my skills and accomplishments in data science.
-
-## 📜 Certificate
-
-[Certificate_DataScienceAlperUgurcan.pdf](Certificate_DataScienceAlperUgurcan.pdf)
-
-> To view or download the certificate in high resolution, click on the file above.
+- **500+ hours**
+- **80+ Projects**
 
 ## 🎯 About the Bootcamp
 
-The Data Science Bootcamp provided in-depth training in:
+- **Python Programming** (e.g., NumPy, Pandas)  
+- **Data Visualization** (e.g., Matplotlib, Seaborn, Plotly)  
+- **Machine Learning** (Supervised and Unsupervised Learning)  
+- **Deep Learning** (Neural Networks, CNNs, RNNs, Transformers)
+- **Natural Language Processing (NLP)** (e.g., text generation, sentiment analysis)
+- **Computer Vision** (e.g., image classification, object detection)
+- **MLOps** (e.g., CI/CD pipelines, model deployment)
 
-- **Data Analysis**
-- **Machine Learning**
-- **Statistical Modeling**
-- **Data Visualization**
-- **Python for Data Science**
+## 📚 Other Trainings
 
-This comprehensive program involved hands-on projects and real-world case studies, preparing participants for data science roles in the industry.
+#BlockChain - #CSS - #Flask - #GIS - #HTML - #JavaScript - #LargeLanguageModels - #MobileAppDevelopment - #QuantumComputing - #RecommenderSystems - #Spark - #SQL - #TimeSeriesAnalysis
 
-## 🚀 Next Steps
+## 📜 Certificate
 
-I aim to build upon these skills by contributing to innovative data science projects and continuously learning new tools and technologies. Stay tuned for updates in this repository!
+![Certificate Preview](Certificate_DataScienceAlperUgurcan.png)
